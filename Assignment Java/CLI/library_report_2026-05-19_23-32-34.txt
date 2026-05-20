@@ -1,0 +1,11 @@
+========== LIBRARY REPORT ==========
+Generated: 2026-05-19 23:32:34
+Total Books: 5
+
+ID   Title                        Author             Genre        Year   Status    
+--------------------------------------------------------------------------
+2    To Kill a Mockingbird        Harper Lee         Fiction      1960   Available 
+3    1984                         George Orwell      back         1949   Available 
+4    Pride and Prejudice          Jane Austen        Romance      1813   Available 
+5    Harry Potter                 J.K. Rowling       Fantasy      1997   Available 
+7    Rich Dad Poor Dad            Napolein Hill      Self Help    1997   Available 
