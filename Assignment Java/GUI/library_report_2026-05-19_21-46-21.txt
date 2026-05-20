@@ -1,0 +1,16 @@
+===============================================
+       LIBRARY MANAGEMENT SYSTEM - REPORT      
+       Generated: 2026-05-19 21:46:21
+===============================================
+
+Total Books: 5 | Available: 5 | Borrowed: 0
+
++------+--------------------------------+----------------------+-----------------+--------+-------------+
+| ID   | Title                          | Author               | Genre           | Year   | Status      |
++------+--------------------------------+----------------------+-----------------+--------+-------------+
+| 1    | The Great Gatsby               | F. Scott Fitzgerald  | Fiction         | 1925   | Available   |
+| 2    | To Kill a Mockingbird          | Harper Lee           | Fiction         | 1960   | Available   |
+| 3    | 1984                           | George Orwell        | Dystopian       | 1949   | Available   |
+| 4    | Pride and Prejudice            | Jane Austen          | Romance         | 1813   | Available   |
+| 5    | Harry Potter and the Sorcer... | J.K. Rowling         | Fantasy         | 1997   | Available   |
++------+--------------------------------+----------------------+-----------------+--------+-------------+
